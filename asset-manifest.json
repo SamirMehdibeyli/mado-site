@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mado-site/static/css/main.c42134e0.css",
+    "main.js": "/mado-site/static/js/main.b875faad.js",
+    "static/media/2banner.jpg": "/mado-site/static/media/2banner.8035500b58d40da4642a.jpg",
+    "static/media/chhola.jpg": "/mado-site/static/media/chhola.6bec3486cb2874842faa.jpg",
+    "static/media/gujrati.jpg": "/mado-site/static/media/gujrati.c480956755407ab9a01f.jpg",
+    "static/media/idli.jpg": "/mado-site/static/media/idli.422787a8d03585205aca.jpg",
+    "static/media/masala.jpg": "/mado-site/static/media/masala.c9164344ab7f141a0042.jpg",
+    "static/media/dosa.jpg": "/mado-site/static/media/dosa.87bd68728dc5393ce04f.jpg",
+    "static/media/paneer.jpg": "/mado-site/static/media/paneer.009ac9983c856c1cf739.jpg",
+    "static/media/logo-white.svg": "/mado-site/static/media/logo-white.21c41679cfaf175952fd99d561797fdf.svg",
+    "index.html": "/mado-site/index.html",
+    "main.c42134e0.css.map": "/mado-site/static/css/main.c42134e0.css.map",
+    "main.b875faad.js.map": "/mado-site/static/js/main.b875faad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42134e0.css",
+    "static/js/main.b875faad.js"
+  ]
+}
